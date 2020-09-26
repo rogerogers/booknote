@@ -18,10 +18,20 @@ docker
 
 
 
-* centos/red hat/fedora
+* linux
 
 ::
 
-  curl
+  wget -qO- https://get.docker.com/ | sh
 
-* ubuntu/debian
+非root用户运行docker命令需要添加用户到docker组，以example用户为例
+
+::
+
+  sudo usermod -aG docker example
+
+重新登陆即可用非root用户操作docker命令
+
+::
+
+  docker --version
