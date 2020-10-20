@@ -12,6 +12,9 @@ Welcome to rogerogers's documentation!
 
    container/readme
    log/readme
+   linux/readme
+   queue/readme
+   cache/readme
 
 
 
