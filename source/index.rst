@@ -15,6 +15,9 @@ Welcome to rogerogers's documentation!
    linux/readme
    queue/readme
    cache/readme
+   ci/readme
+   automation/readme
+   opentracing/readme
 
 
 

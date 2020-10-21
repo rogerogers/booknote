@@ -1,8 +1,7 @@
-ci
+devops
 ###########
 
 .. toctree::
    :maxdepth: 2
 
-   jenkins/readme
-   gitlab/readme
+   ansible/readme
