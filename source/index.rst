@@ -18,6 +18,7 @@ Welcome to rogerogers's documentation!
    ci/readme
    automation/readme
    opentracing/readme
+   microservice/readme
 
 
 
