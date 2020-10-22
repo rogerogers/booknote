@@ -1,4 +1,4 @@
-message queue
+queue
 ##################
 
 .. toctree::
