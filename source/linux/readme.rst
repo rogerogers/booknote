@@ -6,3 +6,4 @@ linux
 
    ldap/readme
    firewall/readme
+   vim/readme
